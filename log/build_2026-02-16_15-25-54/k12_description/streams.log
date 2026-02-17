@@ -1,0 +1,78 @@
+[0.020s] Invoking command in '/home/ayshu/rover_ws3/build/k12_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ayshu/rover_ws3/src/k12_description -DCMAKE_INSTALL_PREFIX=/home/ayshu/rover_ws3/install/k12_description
+[0.087s] -- The C compiler identification is GNU 11.4.0
+[0.139s] -- The CXX compiler identification is GNU 11.4.0
+[0.146s] -- Detecting C compiler ABI info
+[0.214s] -- Detecting C compiler ABI info - done
+[0.225s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.225s] -- Detecting C compile features
+[0.225s] -- Detecting C compile features - done
+[0.228s] -- Detecting CXX compiler ABI info
+[0.313s] -- Detecting CXX compiler ABI info - done
+[0.319s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.319s] -- Detecting CXX compile features
+[0.319s] -- Detecting CXX compile features - done
+[0.321s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.449s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.535s] -- Found rclcpp: 16.0.17 (/opt/ros/humble/share/rclcpp/cmake)
+[0.570s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.574s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.582s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.592s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.606s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.640s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.643s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.717s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.740s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.779s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.789s] -- Looking for pthread.h
+[0.878s] -- Looking for pthread.h - found
+[0.879s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.978s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.980s] -- Found Threads: TRUE  
+[1.019s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.112s] -- Configuring done
+[1.114s] -- Generating done
+[1.116s] -- Build files have been written to: /home/ayshu/rover_ws3/build/k12_description
+[1.125s] Invoked command in '/home/ayshu/rover_ws3/build/k12_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ayshu/rover_ws3/src/k12_description -DCMAKE_INSTALL_PREFIX=/home/ayshu/rover_ws3/install/k12_description
+[1.126s] Invoking command in '/home/ayshu/rover_ws3/build/k12_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayshu/rover_ws3/build/k12_description -- -j8 -l8
+[1.163s] Invoked command in '/home/ayshu/rover_ws3/build/k12_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayshu/rover_ws3/build/k12_description -- -j8 -l8
+[1.171s] Invoking command in '/home/ayshu/rover_ws3/build/k12_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ayshu/rover_ws3/build/k12_description
+[1.177s] -- Install configuration: ""
+[1.177s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/launch
+[1.177s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/launch/navigation.launch.py
+[1.177s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/launch/online_async.launch.py
+[1.177s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/launch/gazebo.launch.py
+[1.177s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/launch/display.launch.py
+[1.177s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes/lidar_1.stl
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes/right_front_1.stl
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes/left_back_1.stl
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes/left_front_1.stl
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes/gps_1.stl
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes/right_back_1.stl
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes/imu_1.stl
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes/base_link.stl
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/meshes/cam_1.stl
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/urdf
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/urdf/k12.trans
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/urdf/k12.xacro
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/urdf/k12.gazebo
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/urdf/materials.xacro
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/config
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/config/mapper_params_online_async.yaml
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/ament_index/resource_index/package_run_dependencies/k12_description
+[1.178s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/ament_index/resource_index/parent_prefix_path/k12_description
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/environment/ament_prefix_path.sh
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/environment/ament_prefix_path.dsv
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/environment/path.sh
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/environment/path.dsv
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/local_setup.bash
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/local_setup.sh
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/local_setup.zsh
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/local_setup.dsv
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/package.dsv
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/ament_index/resource_index/packages/k12_description
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/cmake/k12_descriptionConfig.cmake
+[1.179s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/cmake/k12_descriptionConfig-version.cmake
+[1.180s] -- Installing: /home/ayshu/rover_ws3/install/k12_description/share/k12_description/package.xml
+[1.182s] Invoked command in '/home/ayshu/rover_ws3/build/k12_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ayshu/rover_ws3/build/k12_description

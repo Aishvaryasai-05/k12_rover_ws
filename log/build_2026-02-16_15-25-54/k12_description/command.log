@@ -1,0 +1,6 @@
+Invoking command in '/home/ayshu/rover_ws3/build/k12_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ayshu/rover_ws3/src/k12_description -DCMAKE_INSTALL_PREFIX=/home/ayshu/rover_ws3/install/k12_description
+Invoked command in '/home/ayshu/rover_ws3/build/k12_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ayshu/rover_ws3/src/k12_description -DCMAKE_INSTALL_PREFIX=/home/ayshu/rover_ws3/install/k12_description
+Invoking command in '/home/ayshu/rover_ws3/build/k12_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayshu/rover_ws3/build/k12_description -- -j8 -l8
+Invoked command in '/home/ayshu/rover_ws3/build/k12_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayshu/rover_ws3/build/k12_description -- -j8 -l8
+Invoking command in '/home/ayshu/rover_ws3/build/k12_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ayshu/rover_ws3/build/k12_description
+Invoked command in '/home/ayshu/rover_ws3/build/k12_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ayshu/rover_ws3/build/k12_description
