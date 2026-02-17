@@ -195,7 +195,7 @@ Located inside `config/`:
 ## 👩‍💻 Author
 
 **Aishwarya Sai**
-B.Tech – 3nd Year
+B.Tech – 3rd Year
 
 ---
 ## 📧 Contact
