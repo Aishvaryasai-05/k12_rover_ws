@@ -1,13 +1,28 @@
 
-# 🤖 Autonomous Navigation Robot using ROS2, SLAM Toolbox, and Nav2 -2d lidar
+<!-- Header with KIET Robotics logo on right -->
+<table>
+<tr>
+<td>
+
+## 🤖 Autonomous Navigation Robot using ROS2, SLAM Toolbox, and Nav2 -2d lidar
 
 ### (k12_description – ROS2 Simulation Package)
+</td>
+<td align="right" valign="top">
 
+<img src="https://uploads.onecompiler.io/43pdbrrr7/44e9yme28/1000271448.jpg" 
+alt="KIET Robotics Logo" 
+width="250" 
+style="border-radius: 6px;"/>
+
+</td>
+</tr>
+</table>
+
+---
 A robotics project implementing **Simultaneous Localization and Mapping (SLAM)** and autonomous navigation using **ROS 2 Humble**, **slam_toolbox**, **Navigation2 (Nav2)**, **Gazebo**, and **RViz**.
 
 This package contains the robot description, simulation setup, SLAM configuration, and full navigation stack integration for a differential drive autonomous robot.
-
----
 
 ## 📌 Overview
 
