@@ -1,6 +1,6 @@
 
 
-## 🤖 Autonomous Navigation Robot using ROS2, SLAM Toolbox, and Nav2 -2d lidar
+## 🤖 Autonomous Navigation Robot using ROS2, SLAM Toolbox, and Nav2 -2d LiDAR
 
 ### (k12_description – ROS2 Simulation Package)
 
